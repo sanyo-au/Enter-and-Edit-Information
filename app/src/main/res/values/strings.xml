@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="SIS">radioButtonSIS</string>
+    <string name="radioButtonSis">SIS</string>
+    <string name="department">Department:</string>
+    <string name="mood">Your Current Mood:</string>
+    <string name="submit">Submit</string>
+    <string name="other">Other</string>
+    <string name="bio">BIO</string>
+    <string name="cs">CS</string>
+    <string name="sis">SIS</string>
+    <string name="student_info">STUDENT INFORMATION</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="department_display">Department</string>
+    <string name="mood1">Mood</string>
+</resources>
